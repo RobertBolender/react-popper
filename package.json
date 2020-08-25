@@ -1,7 +1,7 @@
 {
-  "name": "react-popper",
-  "version": "2.2.3",
-  "description": "Official library to use Popper on React projects",
+  "name": "faithlife-react-popper",
+  "version": "2.2.4",
+  "description": "Fork of the react-popper project",
   "license": "MIT",
   "author": "Travis Arnold <travis@souporserious.com> (http://souporserious.com)",
   "contributors": [
